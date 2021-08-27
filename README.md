@@ -1,2 +1,0 @@
-# blackjack-python
-Blackjack game
